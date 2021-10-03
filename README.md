@@ -1,5 +1,6 @@
-ETAPA 1
+Projeto da disciplina de Fundamentos de Internet das Coisas.
 
+ETAPA 1
 
 Esta atividade tem como propósito comparar as características dos computadores de uso geral com os utilizados para internet das coisas. Para isso, siga os passos:
 1. Pesquise quatro propagandas atuais de computadores de uso geral (laptops ou desktops) à venda no comércio on-line. Para cada uma delas, localize as principais características anunciadas, destacando:
@@ -31,9 +32,7 @@ Ao final, você deve ter um único documento com os itens pedidos nos passos 1, 
 
     Ao final desta etapa, você terá uma melhor compreensão das características e limitações dos módulos geralmente usados para internet das coisas, bem como suas possíveis aplicações. Não negligencie esta etapa. Ela será muito útil para as próximas duas.
 
-
 ETAPA 2
-
 
 Chegou a hora de começar o trabalho prático!
 Nesta etapa, você deve realizar três atividades muito importantes: a configuração inicial do seu sistema para o desenvolvimento da estação meteorológica; testes com um atuador (relé) controlado pelo ESP32; e testes com um sensor de umidade e temperatura atmosféricas (DHT11) acessado pelo ESP32. Siga os passos:
