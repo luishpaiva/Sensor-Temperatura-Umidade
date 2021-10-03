@@ -27,6 +27,7 @@ Importante! Guarde com carinho o documento gerado. Ele não será entregue agora
 Ao final desta etapa, você terá uma melhor compreensão das características e limitações dos módulos geralmente usados para internet das coisas, bem como suas possíveis aplicações.
 Não negligencie esta etapa. Ela será muito útil para as próximas duas.
 
+
 ETAPA 2
 
 Chegou a hora de começar o trabalho prático!
@@ -54,6 +55,7 @@ Umidade relativa do ar > 70%
 
 Caso nenhuma das condições esteja presente, o relé deve ser desligado.
 Observação: utilize a criatividade para que o sensor alcance as condições de teste apresentadas (faz parte da atividade).
+
 
 ETAPA 4
 
