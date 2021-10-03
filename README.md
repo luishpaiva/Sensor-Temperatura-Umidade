@@ -37,9 +37,12 @@ ETAPA 2
 Chegou a hora de começar o trabalho prático!
 Nesta etapa, você deve realizar três atividades muito importantes: a configuração inicial do seu sistema para o desenvolvimento da estação meteorológica; testes com um atuador (relé) controlado pelo ESP32; e testes com um sensor de umidade e temperatura atmosféricas (DHT11) acessado pelo ESP32. Siga os passos:
 
-1. Realize a configuração inicial da plataforma ESP32, conectando-a ao computador. Este é o primeiro passo para implementar o projeto de nossa pequena estação meteorológica. Para orientar a realização deste passo, acesse o vídeo que preparamos e siga as instruções: http://iot.microprocessadores.com.br/esp32/1.setupESP32.html.
-2. Agora, vamos aprender a controlar um dispositivo elétrico pelo seu módulo ESP32. Para orientar a realização deste passo, acesse o vídeo que preparamos e siga as instruções: http://iot.microprocessadores.com.br/esp32/2.ESP32.RELAY.html.
-3. Por fim, vamos aprender a ler a umidade e temperatura ambiente utilizando um sensor e seu ESP32. Para orientar a realização deste passo, acesse o vídeo que preparamos e siga as instruções: http://iot.microprocessadores.com.br/esp32/3.ESP32.DHT11.html.
+1. Realize a configuração inicial da plataforma ESP32, conectando-a ao computador. Este é o primeiro passo para implementar o projeto de nossa pequena estação meteorológica. Para orientar a realização deste passo, acesse o vídeo que preparamos e siga as instruções:</br>
+   http://iot.microprocessadores.com.br/esp32/1.setupESP32.html.
+2. Agora, vamos aprender a controlar um dispositivo elétrico pelo seu módulo ESP32. Para orientar a realização deste passo, acesse o vídeo que preparamos e siga as instruções:</br>
+   http://iot.microprocessadores.com.br/esp32/2.ESP32.RELAY.html.
+3. Por fim, vamos aprender a ler a umidade e temperatura ambiente utilizando um sensor e seu ESP32. Para orientar a realização deste passo, acesse o vídeo que preparamos e siga as instruções:</br>
+   http://iot.microprocessadores.com.br/esp32/3.ESP32.DHT11.html.
 
 Ao assistir aos procedimentos, dê uma pausa no vídeo e repita a operação com seu módulo.
 Ao final desta etapa, você terá aprendido a configurar um ambiente para iniciar os testes e desenvolvimento de um sistema para internet das coisas.
